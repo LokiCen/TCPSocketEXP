@@ -1,1 +1,3 @@
 # TCPSocketEXPXXXXXX
+UserId 12345
+PASS   12345
